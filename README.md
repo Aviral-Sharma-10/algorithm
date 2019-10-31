@@ -1,6 +1,6 @@
 # algorithm
 This repo contains pseudo-codes for multiple sorting and searching algorithms. 
-[Read More on Algorithms...](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+[Read more on Algorithms...](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ### BUBBLE SORT :
 
