@@ -1,6 +1,6 @@
-## algorithm
-
-# BUBBLE SORT :
+# algorithm
+This repo contains pseudo-codes for multiple sorting and searching algorithms. 
+### BUBBLE SORT :
 
 begin BubbleSort(list)
 
